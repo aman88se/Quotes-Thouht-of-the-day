@@ -3,7 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Software/ThoughtofTheday/app/src/main/res/drawable/bg_card.xml" value="0.15" />
+        <entry key="..\:/Software/ThoughtofTheday/app/src/main/res/drawable/bg_gradient.xml" value="0.1" />
+        <entry key="..\:/Software/ThoughtofTheday/app/src/main/res/drawable/ic_arrow.xml" value="0.1595" />
+        <entry key="..\:/Software/ThoughtofTheday/app/src/main/res/drawable/ic_left_arrow.xml" value="0.1595" />
+        <entry key="..\:/Software/ThoughtofTheday/app/src/main/res/drawable/ic_quote.xml" value="0.1595" />
+        <entry key="..\:/Software/ThoughtofTheday/app/src/main/res/drawable/ic_share.xml" value="0.1595" />
         <entry key="..\:/Software/ThoughtofTheday/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Software/ThoughtofTheday/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1595" />
       </map>
     </option>
   </component>
